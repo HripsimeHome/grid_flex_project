@@ -1,0 +1,19 @@
+
+$myColor: olive;
+
+
+body {   
+  background-color: $myColor;
+}
+
+.footer {
+  height: 100px;
+  line-height: 20px;
+  color: orange;
+  background-color: brown;  
+  p {
+    display: block;
+    padding-top: 8px;
+	background-color:blue;
+  }
+}

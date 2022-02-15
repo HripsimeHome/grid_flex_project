@@ -1,0 +1,15 @@
+body {
+  background-color: olive;
+}
+
+.footer {
+  height: 100px;
+  line-height: 20px;
+  color: orange;
+  background-color: brown;
+}
+.footer p {
+  display: block;
+  padding-top: 8px;
+  background-color: blue;
+}

@@ -1,0 +1,29 @@
+{
+  "name": "grid_flex_project",
+  "version": "1.0.0",
+  "description": "Project with css Grid and Flexbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HripsimeHome/grid_flex_project.git"
+  },
+  "keywords": [
+    "css",
+    "grid",
+    "flexbox"
+  ],
+  "author": "Hripsime Manukyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HripsimeHome/grid_flex_project/issues"
+  },
+  "homepage": "https://github.com/HripsimeHome/grid_flex_project#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.49.7"
+  }
+}
